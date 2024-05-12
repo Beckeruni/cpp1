@@ -1,0 +1,9 @@
+// 315442236 aviad.becker@msmail.ariel.ac.il
+
+
+Graph.hpp holds information about the Graph and it's fields.
+Graph.cpp holds implementations of the graph and it's methods.
+
+
+Algorithms.hpp holds information about the Graph Algorithms and it's fields.
+Algorithms.cpp holds implementations of the graph Algorithms and it's methods.
